@@ -33,10 +33,19 @@ Optionally, the "Pack data" option will create a new `data.acd` file compiled fr
 ### TCL AMG 300 SEL 6.8 'Rote Sau'
 * Animated wipers (requires CSP)
 
+### TCL Austin Healey 3000 MK II
+* Animated wipers (requires CSP)
+
 ### TCL BMW 2002
 * Animated wipers (requires CSP)
 
 ### TCL Datsun 510
+* Animated wipers (requires CSP)
+
+### TCL Ford Fairlane
+* Animated wipers (requires CSP)
+
+### TCL Lotus Cortina MkI
 * Animated wipers (requires CSP)
 
 ### TCL Porsche 911RS 2.7
