@@ -28,12 +28,21 @@ Optionally, the "Pack data" option will create a new `data.acd` file compiled fr
 
 ## Enhancements in this repo
 
+### TCL AMG 300 SEL 6.8 'Rote Sau'
+* Animated wipers (requires CSP)
+
 ### TCL BMW 2002
+* Animated wipers (requires CSP)
+
+### TCL Datsun 510
 * Animated wipers (requires CSP)
 
 ### TCL Porsche 911RS 2.7
 * Added headlights, brake lights dashboard gauge lights and enabled hazard flashers when in pitlane.
+* Animated wipers (requires CSP)
 
+### TCL Renault Alpine A110
+* Animated wipers (requires CSP)
 
 ## License
 
