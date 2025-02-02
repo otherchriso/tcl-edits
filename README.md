@@ -51,6 +51,9 @@ Optionally, the "Pack data" option will create a new `data.acd` file compiled fr
 ### TCL Lotus Cortina MkI
 * Animated wipers (requires CSP)
 
+### TCL MG-MGA (Race)
+* Animated wipers (requires CSP)
+
 ### TCL Porsche 911RS 2.7
 * Added headlights, brake lights dashboard gauge lights and enabled hazard flashers when in pitlane.
 * Animated wipers (requires CSP)
