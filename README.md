@@ -45,6 +45,9 @@ Optionally, the "Pack data" option will create a new `data.acd` file compiled fr
 ### TCL Ford Fairlane
 * Animated wipers (requires CSP)
 
+### TCL Hillman Imp
+* Animated wipers (requires CSP)
+
 ### TCL Lotus Cortina MkI
 * Animated wipers (requires CSP)
 
