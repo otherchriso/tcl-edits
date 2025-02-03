@@ -55,7 +55,8 @@ Optionally, the "Pack data" option will create a new `data.acd` file compiled fr
 * Animated wipers (requires CSP)
 
 ### TCL Porsche 911RS 2.7
-* Added headlights, brake lights dashboard gauge lights and enabled hazard flashers when in pitlane.
+* Added headlights, brake lights dashboard gauge lights and enabled hazard flashers when in pitlane. 
+    * _Note: these lights.ini changes are imperfect and incomplete and unlikely to be revisited because [JUngle Man's edits](https://www.overtake.gg/threads/touring-car-legends-porsche-911-rs-2-7-lights-fix.272786/), released after I created these, are superior in every way and you should install those._
 * Animated wipers (requires CSP)
 
 ### TCL Renault Alpine A110
