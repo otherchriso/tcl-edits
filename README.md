@@ -48,7 +48,13 @@ Optionally, the "Pack data" option will create a new `data.acd` file compiled fr
 ### TCL Hillman Imp
 * Animated wipers (requires CSP)
 
+### TCL Jaguar MK2
+* Animated wipers (requires CSP)
+
 ### TCL Lotus Cortina MkI
+* Animated wipers (requires CSP)
+
+### TCL Mazda RX-3 GT
 * Animated wipers (requires CSP)
 
 ### TCL MG-MGA (Race)
