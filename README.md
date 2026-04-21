@@ -1,3 +1,11 @@
+# Repository is being archived!
+
+Happily, these contributions are under consideration by the TC Legends mod maintainers for potential incorporation in a future update.
+
+This repo will be archived for the time being, with the intention that it may disappear entirely in due course.
+
+---
+
 # Touring Car Legends mod - bugfixes and edits
 
 This repository contains edits to the Touring Car Legends (aka "TCL") mod for Assetto Corsa. The mod itself can be downloaded via https://thracing.de/touring-car-legends/
